@@ -1,1 +1,1 @@
-hello
+print("ritik nayeeee")
